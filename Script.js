@@ -11,7 +11,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItems'));
 
 let songs = [
-    {songName: "Chamkila Cherera", filePath:"Music/song1.mp3" , coverPath: "Cover/1.webp"},
+    {songName: "Chamkila Cherera", filePath:"Music/song1.mp3" , coverPath: "Cover/1.jpg"},
     {songName: "Jugnu", filePath:"Music/song2.mp3" , coverPath: "Cover/2.jpg"},
     {songName: "Lavitating", filePath:"Music/song3.mp3" , coverPath: "Cover/3.jpg"},
     {songName: "Middle in night", filePath:"Music/song4.mp3" , coverPath: "Cover/4.jpg"}
